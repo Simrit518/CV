@@ -33,7 +33,7 @@ main: #简历主要内容，
     detail: 计算机技术
   - title: 内蒙古大学
     duration: "2017年9月 - 2018年7月"
-    sub:本科
+    sub: 本科
     detail: 网络工程
 
 - type: skills
