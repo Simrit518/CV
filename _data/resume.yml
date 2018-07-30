@@ -70,7 +70,7 @@ main: #简历主要内容，
 - type: projects
   name: Projects
   content:
-  - title: 项目名称
+  - title: ISILab实验室网站
     duration: xxxx年xx月 - yyyy年yy月
     detail: 项目和工作介绍，项目总结.
     sub: 维护者
