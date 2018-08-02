@@ -4,7 +4,7 @@
 title: "简历标题"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "刘振"
-jobtitle: "硕士研究生" #可空不显示
+jobtitle: "男 · 23 · 现居天津" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
@@ -76,7 +76,7 @@ others: #其他列表显示
   name: '其他'
   content: #选择需要的格式
   - title: "英语水平:"
-    text: "通过英语六级，熟练阅读英文文档"
+    detail: 通过英语六级，熟练阅读英文文档
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组
