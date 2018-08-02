@@ -67,7 +67,7 @@ main: #简历主要内容，
   content:
   - title: ""
     detail:
-        md: _data/.md
+        md: _data/demo.md
     open: open
 
 #others 其他简略内容(列表)
