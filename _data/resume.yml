@@ -53,7 +53,7 @@ main: #简历主要内容，
   - title: 基于NFC的矿井井下巡检系统
     duration: 2017年7月 - 2018年3月
     detail: 
-      md: _data/demo.md
+      md: _data/NFC.md
     sub: 后台开发
     
   - title: Project Name
