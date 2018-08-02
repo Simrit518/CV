@@ -56,6 +56,12 @@ main: #简历主要内容，
       md: _data/demo.md
     sub: 后台开发
     
+  - title: Project Name
+    summary: Projects' introduction or summary
+    detail:
+    sub: Creator and maintainer.
+   #可继续添加更多内容
+   
 - type: awards
   name: '获奖情况'
   content:
@@ -63,12 +69,6 @@ main: #简历主要内容，
     detail:
         md: _data/.md
     open: open
-    
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-    sub: Creator and maintainer.
-   #可继续添加更多内容
 
 #others 其他简略内容(列表)
 others: #其他列表显示
