@@ -77,9 +77,7 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
-  - title: "英语水平"
-  
-  - 通过英语六级，熟练阅读英文文档
+  - 英语水平：通过英语六级，熟练阅读英文文档
   - 参与翻译英文书籍《Computer Science》
 
 #footer 脚注，打印版和web版不同不显示    
