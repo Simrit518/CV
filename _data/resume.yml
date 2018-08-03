@@ -66,8 +66,8 @@ main: #简历主要内容，
     duration: 2018年5月 - 2018年8月
     tags:
       -校企合作
-    summary: Projects' introduction or summary
-    detail:
+    summary: 对企业的电器设备产品进行展示，并提供后天管理的常用功能，对产品进行添加修改删除等。
+    detail:主要技术：Java，Angular
    #可继续添加更多内容
    
 - type: awards
