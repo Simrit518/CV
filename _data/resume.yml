@@ -46,8 +46,8 @@ main: #简历主要内容，
     - Java
     - Python
     - Linux
-  - title: 了解
-    summary: C++、MySQL、JavaScript、HTML、CSS、Android
+  #- title: 了解
+   # summary: C++、MySQL、JavaScript、HTML、CSS、Android
 
 - type: projects
   name: 项目经验
@@ -91,9 +91,7 @@ main: #简历主要内容，
       -校企合作
     detail: 
       md: _data/glass.md
-      
-      
-    
+        
    #可继续添加更多内容
    
 - type: awards
