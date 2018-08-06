@@ -45,7 +45,9 @@ main: #简历主要内容，
     items: #itmems 可以小块的方式显示
     - Java
     - Python
-    - HTML/CSS/JavaScript
+    - HTML
+    - CSS
+    - JavaScript
     - C++
   - title: 技术栈
     items:
