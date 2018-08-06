@@ -30,13 +30,15 @@ main: #简历主要内容，
   - title: 南开大学
     duration: "2017年9月 - 2018年7月"
     sub: 硕士
+    tags:
+    - 计算机学院 · 计算机技术
     detail: 计算机学院 · 计算机技术
   - title: 内蒙古大学
     duration: "2017年9月 - 2018年7月"
     sub: 本科
-    #tags:
-    #- 专业第4
-    detail: 计算机学院 · 网络工程
+    tags:
+    - 计算机学院 · 网络工程    专业第4
+    #detail: 计算机学院 · 网络工程
 
 - type: 技能
   # name: "技能"
