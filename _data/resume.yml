@@ -41,18 +41,18 @@ main: #简历主要内容，
 - type: 技能
   # name: "技能"
   content:
-  - title: 熟悉
+  - title: 编程语言
     items: #itmems 可以小块的方式显示
     - Java
     - Python
-    - Linux
-  - title: 了解
-    items:
+    - HTML/CSS/JavaScript
     - C++
+  - title: 技术栈
+    items:
+    - Linux
     - MySQL
-    - JavaScript
-    - HTML
-    - CSS
+    - Web
+    - Git
     - Android
 
 - type: projects
@@ -62,7 +62,7 @@ main: #简历主要内容，
     sub: 服务端开发
     duration: 2017年7月 - 2018年3月
     tags:
-      -校企合作
+      -Java，SSH，HTML，CSS，JavaScript，Bootstrap
     detail: 
       md: _data/NFC.md
     
@@ -70,7 +70,7 @@ main: #简历主要内容，
     sub: 后端开发
     duration: 2018年5月 - 2018年8月
     tags:
-      -校企合作
+      -Java，SSH，Angular
     detail: 
       md: _data/product.md
   
@@ -78,7 +78,7 @@ main: #简历主要内容，
     sub: 软件开发
     duration: 2017年10月 - 2018年6月
     tags:
-      -校企合作
+      -Python，OpenCV，QT
     detail: 
       md: _data/cnooc.md
       
@@ -86,7 +86,7 @@ main: #简历主要内容，
     sub: 独立开发
     duration: 2017年6月 - 2017年9月
     tags:
-      -校内项目
+      -Java，SSH，HTML，CSS，JavaScript，Bootstrap
     detail: 
       md: _data/isilab.md
       
@@ -94,7 +94,7 @@ main: #简历主要内容，
     sub: 独立开发
     duration: 2018年8月 - 至今
     tags:
-      -校企合作
+      -Python，C#，OpenCV，QT
     detail: 
       md: _data/glass.md
         
