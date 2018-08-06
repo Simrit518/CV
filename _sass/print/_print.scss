@@ -63,9 +63,9 @@ ul,
 li,
 p,
 .detail,
-footer {
-  page-break-inside: inherit;
-}
+/*footer {
+  page-break-inside: avoid;
+}*/
 
 /*隐藏脚注*/
 footer {
