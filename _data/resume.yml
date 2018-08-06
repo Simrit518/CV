@@ -74,7 +74,7 @@ main: #简历主要内容，
     tags:
       -校企合作
     detail: 
-      Fmd: _data/cnooc.md
+      md: _data/cnooc.md
       
   - title: ISILab实验室网站
     sub: 独立开发
@@ -82,7 +82,7 @@ main: #简历主要内容，
     tags:
       -校内项目
     detail: 
-      Fmd: _data/isilab.md
+      md: _data/isilab.md
       
   - title: 玻璃绝缘子爆炸检测
     sub: 独立开发
@@ -90,7 +90,7 @@ main: #简历主要内容，
     tags:
       -校企合作
     detail: 
-      Fmd: _data/glass.md
+      md: _data/glass.md
       
       
     
