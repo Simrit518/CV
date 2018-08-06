@@ -60,14 +60,40 @@ main: #简历主要内容，
     detail: 
       md: _data/NFC.md
     
-    
   - title: 电气设备展示管理系统
     sub: 后端开发
     duration: 2018年5月 - 2018年8月
     tags:
       -校企合作
-    summary: 对企业的电器设备产品进行展示，并提供后天管理的常用功能，对产品进行添加修改删除等。
-    detail: 主要技术：Java，Angular
+    detail: 
+      md: _data/product.md
+  
+  - title: 油套管信息采集系统
+    sub: 软件开发
+    duration: 2017年10月 - 2018年6月
+    tags:
+      -校企合作
+    detail: 
+      Fmd: _data/cnooc.md
+      
+  - title: ISILab实验室网站
+    sub: 独立开发
+    duration: 2017年6月 - 2017年9月
+    tags:
+      -校内项目
+    detail: 
+      Fmd: _data/isilab.md
+      
+  - title: 玻璃绝缘子爆炸检测
+    sub: 独立开发
+    duration: 2018年8月 - 至今
+    tags:
+      -校企合作
+    detail: 
+      Fmd: _data/glass.md
+      
+      
+    
    #可继续添加更多内容
    
 - type: awards
