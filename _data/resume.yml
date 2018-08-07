@@ -28,12 +28,12 @@ main: #简历主要内容，
   name: 教育背景 #显示名称，空则使用type
   content: #内容基本格式 标题-副标题-日期-详细内容 (都允许空)
   - title: 南开大学
-    duration: "2017年9月 - 2018年7月"
+    duration: "2017年9月 - 2019年7月"
     sub: 硕士
     tags:
     - 计算机学院 · 计算机技术
   - title: 内蒙古大学
-    duration: "2017年9月 - 2018年7月"
+    duration: "2013年9月 - 2017年7月"
     sub: 本科
     tags:
     - 计算机学院 · 网络工程 · 专业第4
@@ -116,8 +116,9 @@ others: #其他列表显示
 - type: others #ID可以为空
   name: '其他'
   content: #选择需要的格式
-  - 英语水平：通过英语六级，熟练阅读英文文档
-  - 参与翻译英文书籍《Computer Science》
+  detail: 
+      md: _data/other.md
+  
 
 #footer 脚注，打印版和web版不同不显示    
 footer: #脚注多组
