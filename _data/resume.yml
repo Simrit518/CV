@@ -95,7 +95,7 @@ main: #简历主要内容，
       
   - title: 玻璃绝缘子爆炸检测
     sub: 独立开发
-    duration: 2018年8月 - 至今
+    duration: 2018年6月 - 至今
     tags:
       -Python，C#，OpenCV，QT
     detail: 
