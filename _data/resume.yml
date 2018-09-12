@@ -76,14 +76,6 @@ main: #简历主要内容，
       -Java，SSH，Angular
     detail: 
       md: _data/product.md
-  
-  - title: 油套管信息采集系统
-    sub: 软件开发
-    duration: 2017年10月 - 2018年6月
-    tags:
-      -Python，OpenCV，QT
-    detail: 
-      md: _data/cnooc.md
       
   - title: ISILab实验室网站
     sub: 独立开发
@@ -92,6 +84,14 @@ main: #简历主要内容，
       -Java，SSH，HTML，CSS，JavaScript，Bootstrap
     detail: 
       md: _data/isilab.md
+  
+  - title: 油套管信息采集系统
+    sub: 软件开发
+    duration: 2017年10月 - 2018年6月
+    tags:
+      -Python，OpenCV，QT
+    detail: 
+      md: _data/cnooc.md
       
   - title: 玻璃绝缘子爆炸检测
     sub: 独立开发
