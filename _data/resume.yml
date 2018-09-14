@@ -89,7 +89,7 @@ main: #简历主要内容，
     sub: 独立开发
     duration: 2018年6月 - 至今
     tags:
-      -Python，C#，OpenCV，QT
+      -Python，C#，OpenCV
     detail: 
       md: _data/glass.md
      
