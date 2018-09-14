@@ -85,13 +85,13 @@ main: #简历主要内容，
     detail: 
       md: _data/isilab.md
   
-  - title: 油套管信息采集系统
-    sub: 软件开发
-    duration: 2017年10月 - 2018年6月
+  - title: 玻璃绝缘子爆炸检测
+    sub: 独立开发
+    duration: 2018年6月 - 至今
     tags:
-      -Python，OpenCV，QT
+      -Python，C#，OpenCV，QT
     detail: 
-      md: _data/cnooc.md
+      md: _data/glass.md
      
         
    #可继续添加更多内容
