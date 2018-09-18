@@ -86,7 +86,7 @@ main: #简历主要内容，
       md: _data/isilab.md
   
   - title: 油套管信息采集系统
-    sub: 独立开发
+    sub: 软件开发
     duration: 2017年10月 - 2018年6月
     tags:
       -Python，C#，OpenCV
