@@ -89,7 +89,7 @@ main: #简历主要内容，
     sub: 软件开发
     duration: 2017年10月 - 2018年6月
     tags:
-      -Python，C#，OpenCV
+      -Python，OpenCV，Qt
     detail: 
       md: _data/cnooc.md
      
