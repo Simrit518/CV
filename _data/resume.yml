@@ -61,6 +61,14 @@ main: #简历主要内容，
 - type: projects
   name: 项目经验
   content:
+  - title: 电气设备展示管理系统
+    sub: 后端开发
+    duration: 2018年5月 - 至今
+    tags:
+      -Java，SSH，Angular
+    detail: 
+      md: _data/product.md
+      
   - title: 基于NFC的矿井井下巡检系统
     sub: 服务端开发
     duration: 2017年7月 - 2018年3月
@@ -68,14 +76,6 @@ main: #简历主要内容，
       -Java，SSH，HTML，CSS，JavaScript，Bootstrap
     detail: 
       md: _data/NFC.md
-    
-  - title: 电气设备展示管理系统
-    sub: 后端开发
-    duration: 2018年5月 - 2018年8月
-    tags:
-      -Java，SSH，Angular
-    detail: 
-      md: _data/product.md
       
   - title: ISILab实验室网站
     sub: 独立开发
@@ -85,13 +85,13 @@ main: #简历主要内容，
     detail: 
       md: _data/isilab.md
   
-  - title: 玻璃绝缘子爆炸检测
+  - title: 油套管信息采集系统
     sub: 独立开发
-    duration: 2018年6月 - 至今
+    duration: 2017年10月 - 2018年6月
     tags:
       -Python，C#，OpenCV
     detail: 
-      md: _data/glass.md
+      md: _data/cnooc.md
      
         
    #可继续添加更多内容
